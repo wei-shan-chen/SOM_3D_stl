@@ -84,7 +84,7 @@ int main()
 	Shader ourShader("shader/vShader.vs", "shader/fShader.fs");	
 
 	STLmodel stlModel;
-	stlModel.LoadSTLfile("stl/halfCylinder.stl");
+	stlModel.LoadSTLfile("stl/halfCylinder_big.stl");
 	SOM_Create(stlModel.m_MeshTri, stlModel.triangleNum, stlModel.m_MaxPos, stlModel.m_MinPos);
 	create_world();
 	Item stlmodel(stlModel.m_MeshTri);

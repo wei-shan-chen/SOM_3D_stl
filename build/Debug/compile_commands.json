@@ -1,0 +1,67 @@
+[
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/include -ID:/Users/user/Desktop/SOM_3D_stl/ext/glad/include -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -std=gnu++17 -o CMakeFiles\\SOM.dir\\src\\main.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\src\\main.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\src\\main.cpp"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/include -ID:/Users/user/Desktop/SOM_3D_stl/ext/glad/include -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -std=gnu++17 -o CMakeFiles\\SOM.dir\\src\\world.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\src\\world.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\src\\world.cpp"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/include -ID:/Users/user/Desktop/SOM_3D_stl/ext/glad/include -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -std=gnu++17 -o CMakeFiles\\SOM.dir\\src\\matrixStack.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\src\\matrixStack.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\src\\matrixStack.cpp"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/include -ID:/Users/user/Desktop/SOM_3D_stl/ext/glad/include -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -std=gnu++17 -o CMakeFiles\\SOM.dir\\src\\STLmodel.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\src\\STLmodel.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\src\\STLmodel.cpp"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/include -ID:/Users/user/Desktop/SOM_3D_stl/ext/glad/include -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -std=gnu++17 -o CMakeFiles\\SOM.dir\\src\\SOM.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\src\\SOM.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\src\\SOM.cpp"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\gcc.exe -ID:/Users/user/Desktop/SOM_3D_stl/ext/glad/include -g -o CMakeFiles\\glad.dir\\ext\\glad\\src\\glad.c.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\glad\\src\\glad.c",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\glad\\src\\glad.c"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\imgui.dir\\ext\\imgui\\imgui_demo.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\imgui_demo.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\imgui_demo.cpp"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\imgui.dir\\ext\\imgui\\imgui_draw.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\imgui_draw.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\imgui_draw.cpp"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\imgui.dir\\ext\\imgui\\imgui_tables.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\imgui_tables.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\imgui_tables.cpp"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\imgui.dir\\ext\\imgui\\imgui_widgets.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\imgui_widgets.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\imgui_widgets.cpp"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\imgui.dir\\ext\\imgui\\imgui.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\imgui.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\imgui.cpp"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\imgui.dir\\ext\\imgui\\backends\\imgui_impl_glfw.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\backends\\imgui_impl_glfw.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\backends\\imgui_impl_glfw.cpp"
+},
+{
+  "directory": "D:/Users/user/Desktop/SOM_3D_stl/build/Debug",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLFW_DLL -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui/backends -ID:/Users/user/Desktop/SOM_3D_stl/ext/imgui -isystem C:/dev/vcpkg/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\imgui.dir\\ext\\imgui\\backends\\imgui_impl_opengl3.cpp.obj -c D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\backends\\imgui_impl_opengl3.cpp",
+  "file": "D:\\Users\\user\\Desktop\\SOM_3D_stl\\ext\\imgui\\backends\\imgui_impl_opengl3.cpp"
+}
+]

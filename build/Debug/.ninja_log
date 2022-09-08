@@ -1,0 +1,17 @@
+# ninja log v5
+284	2056	6831014342134984	CMakeFiles/SOM.dir/src/STLmodel.cpp.obj	eb92dce1b27e983b
+19	847	6831029976963859	CMakeFiles/SOM.dir/src/SOM.cpp.obj	db7d07034a90adc
+221	2096	6831014342579797	CMakeFiles/SOM.dir/src/matrixStack.cpp.obj	5eb427361399da02
+2097	3736	6831014358750909	CMakeFiles/imgui.dir/ext/imgui/imgui_tables.cpp.obj	89945009c660f180
+2060	3947	6831014361164456	CMakeFiles/imgui.dir/ext/imgui/imgui_demo.cpp.obj	eab1b78666f83771
+123	2342	6831014345254826	CMakeFiles/SOM.dir/src/world.cpp.obj	b6c22efb393ea6c2
+306	2514	6831014346664338	CMakeFiles/glad.dir/ext/glad/src/glad.c.obj	f41e7402557acf59
+19	1420	6831029657444231	CMakeFiles/SOM.dir/src/main.cpp.obj	1b7d0d481e6b3418
+3948	4610	6831014367557551	CMakeFiles/imgui.dir/ext/imgui/backends/imgui_impl_opengl3.cpp.obj	a6bba2f6dd15db2a
+2093	4612	6831014367876694	CMakeFiles/imgui.dir/ext/imgui/imgui_draw.cpp.obj	d5bd93a91113b320
+2516	4628	6831014367038934	libglad.a	e9f8cc13fee9ae01
+2343	4946	6831014371666729	CMakeFiles/imgui.dir/ext/imgui/imgui_widgets.cpp.obj	c2a87c13ed78ee09
+3736	5273	6831014375037949	CMakeFiles/imgui.dir/ext/imgui/backends/imgui_impl_glfw.cpp.obj	2a1344e841c69484
+6105	6289	6831014385138276	libimgui.a	e18652413ca7ec30
+2834	6105	6831014383328019	CMakeFiles/imgui.dir/ext/imgui/imgui.cpp.obj	639dd6e7bd3a7fba
+848	3348	6831029986516900	SOM.exe	ad35b1113d510e58
